@@ -4,6 +4,6 @@
 
 17/12/2001 <br>
 ​
-Da Nang University of Technology <br>
+SupremeTech <br>
 ​
-Thua Thien Hue <br>
+Frontend <br>
