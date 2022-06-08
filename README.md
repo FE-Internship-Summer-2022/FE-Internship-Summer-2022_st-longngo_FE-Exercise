@@ -1,9 +1,9 @@
-# FE Internship Summer 2022 <br>
+# FE Internship Summer 2022 
 
-### Ngo Dac Quoc Long <br>
+### Ngo Dac Quoc Long 
 
-17/12/2001 <br>
+- 17/12/2001 
 ​
-SupremeTech <br>
+- SupremeTech 
 ​
-Frontend <br>
+- Frontend 
